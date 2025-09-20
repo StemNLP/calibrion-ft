@@ -7,6 +7,7 @@
 ```bash
 uv init --lib calibrion
 ```
+
 As a result, the package files will be stored under `./calibrion`
 
 ### 2. Build
